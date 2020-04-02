@@ -1,0 +1,17 @@
+.jorjournalcontainer{  width: 440px;  height: 500px;  margin: 10px auto;  position: relative;  overflow: hidden;}
+.jorjournalbinding{  background-image:url(https://i.pinimg.com/originals/a1/aa/27/a1aa2776b0aebbb89c46ddc761311bf1.jpg);  height: 500px;  width: 67px;
+ position: absolute;  top: 0px;  left: 0px;  z-index: 5;}
+.jorjournalcover{  position: absolute;  top: 0px;  left: 40px;width: 400px;  height: 500px;  z-index: 2;  -webkit-transition: all 1s ease;  -webkit-transform: rotateY(0deg);    transform: rotateY(0deg);  -moz-transform: rotateY(0deg);  transform-origin: 0px 0px;  -webkit-transform-origin: 0px 0px;  -moz-transform-origin: 0px 0px;}
+.jorjournalcontainer:hover .jorjournalcover{  -webkit-transform: rotateY(180deg);    transform: rotateY(180deg);  transform-origin: 0px 0px;  -webkit-transform-origin: 0px 0px;  -moz-transform-origin: 0px 0px;}
+.jorjournalfptitle{  color: #fff;  font-family: 'Marck Script', cursive;  font-size: 32px;  text-align: right;  padding: 20px;  line-height: 100%;}
+.jorjournalpic{  width: 150px;  height: 150px;  position: absolute;  padding: 15px 0px 0px 13px;}
+.jorjournalpic img{width: 126px;height: 125px;}
+.jorpol{  width: 150px;  height: 150px;  position: absolute;  top: 0px;  left: 0px;  background-image: url(http://i68.tinypic.com/ouzequ.png);}
+.jorpages{  position: absolute;  top: 0px;left: 40px;  width: 340px;  height: 460px;  background-image: url(http://i66.tinypic.com/ok9bfk.jpg);  overflow: auto;  padding: 20px 20px 20px 40px;}
+.jorpagetitle{  font-family: 'Marck Script', script;  font-size: 24px;  line-height: 100%;  border-bottom: 1px solid #000;}
+.jorpagedate{  text-align: right;  font-family: 'times', serif;  font-size: 12px;  line-height: 100%;  padding-top: 5px;  color: rgba(0,0,0,0.6);}
+.jorpagetext{  text-align: justify;  font-family: 'times', serif;  font-size: 12px;  padding: 10px;  line-height: 110%;}
+.jorpagepic{  width: 100px;  height: 100px;  float: left;  border: 5px solid #fff;  box-shadow: 0px 0px 5px #c0c0c0;  margin: 10px;}
+.jorpages::-webkit-scrollbar{  width: 2px;  height: 2px;}
+.jorpages::-webkit-scrollbar-thumb{  background-color: rgba(0,0,0,0.6);}
+.jorpagelyrics{  font-family: 'Marck Script', script;font-size: 14px;  line-height: 90%;  text-align: justify;  padding-top: 5px;}
