@@ -6,8 +6,8 @@
 .jorjournalfptitle{  color: #fff;  font-family: 'Marck Script', cursive;  font-size: 32px;  text-align: right;  padding: 20px;  line-height: 100%;}
 .jorjournalpic{  width: 150px;  height: 150px;  position: absolute;  padding: 15px 0px 0px 13px;}
 .jorjournalpic img{width: 126px;height: 125px;}
-.jorpol{  width: 150px;  height: 150px;  position: absolute;  top: 0px;  left: 0px;  background-image: url(http://i68.tinypic.com/ouzequ.png);}
-.jorpages{  position: absolute;  top: 0px;left: 40px;  width: 340px;  height: 460px;  background-image: url(http://i66.tinypic.com/ok9bfk.jpg);  overflow: auto;  padding: 20px 20px 20px 40px;}
+.jorpol{  width: 150px;  height: 150px;  position: absolute;  top: 0px;  left: 0px;  background-image: url(https://i.pinimg.com/originals/a1/aa/27/a1aa2776b0aebbb89c46ddc761311bf1.jpg));}
+.jorpages{  position: absolute;  top: 0px;left: 40px;  width: 340px;  height: 460px;  background-image: url(https://i.pinimg.com/originals/a1/aa/27/a1aa2776b0aebbb89c46ddc761311bf1.jpg));  overflow: auto;  padding: 20px 20px 20px 40px;}
 .jorpagetitle{  font-family: 'Marck Script', script;  font-size: 24px;  line-height: 100%;  border-bottom: 1px solid #000;}
 .jorpagedate{  text-align: right;  font-family: 'times', serif;  font-size: 12px;  line-height: 100%;  padding-top: 5px;  color: rgba(0,0,0,0.6);}
 .jorpagetext{  text-align: justify;  font-family: 'times', serif;  font-size: 12px;  padding: 10px;  line-height: 110%;}
